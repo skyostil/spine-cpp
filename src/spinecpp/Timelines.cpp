@@ -40,6 +40,7 @@
 #include <spinecpp/WeightedMeshAttachment.h>
 
 #include <algorithm>
+#include <string.h>
 
 namespace spine
 {
